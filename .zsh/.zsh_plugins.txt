@@ -1,0 +1,9 @@
+rupa/z
+ohmyzsh/ohmyzsh
+romkatv/powerlevel10k
+seletskiy/zsh-git-smart-commands
+zsh-users/zsh-completions
+
+zdharma-continuum/fast-syntax-highlighting
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-history-substring-search
