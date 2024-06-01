@@ -5,3 +5,4 @@ fi
 . $HOME/.antidote/antidote.zsh
 antidote load
 [[ ! -f $HOME/.p10k.zsh ]] || source $HOME/.p10k.zsh
+
